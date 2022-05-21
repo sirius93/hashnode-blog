@@ -12,13 +12,13 @@ Let's get started then :
 
 - Go to [javascript.info](http://javascript.info) for a detailed overview of JavaScript, It helps you understand the basics well and has a good collection of concepts.
 
-- It's time you start building some functional websites. Get familiar with [Node](https://nodejs.org/) and [NPM modules](https://www.npmjs.com). Start adding click events etc. on that Twitter clone you built. maybe start adding a JSON DB in your local. There are some NPM modules like [json-server](https://www.npmjs.com/package/json-server) that can add a JSON dB in your local dev environment.
+- It's time you start building some functional websites. Get familiar with [NodeJs](https://nodejs.org/) and [NPM modules](https://www.npmjs.com). Start adding click events etc. on that Twitter clone you built. maybe start adding a JSON DB in your local. There are some NPM modules like [json-server](https://www.npmjs.com/package/json-server) that can add a JSON dB in your local dev environment.
 
 - Once you are done with http://javscript.info, get back to [MDN JavaScript docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and get a detailed understanding of essential concepts.
 
 - Keep building more and more websites. If you are not familiar with some concepts get to YouTube and learn, there is a lot of free content available. 
 
-- You can pick a framework/library of your choice like [Angular](https://angular.io/)/[React](https://reactjs.org/)/[Vue](https://vuejs.org/)if you want to scale up. It's completely a personal choice, no one framework is best, learn what suits you. Start with the official documentation. I will cover more on this one in my next post in this series.
+- You can pick a framework/library of your choice like [Angular](https://angular.io/)/[React](https://reactjs.org/)/[Vue](https://vuejs.org/) if you want to scale up. It's completely a personal choice, no one framework is best, learn what suits you. Start with the official documentation. I will cover more on this one in my next post in this series.
 
 P.S.: The post is picked up from a series of tweets I made a few days back. Do Check it out :
 

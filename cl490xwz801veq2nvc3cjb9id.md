@@ -45,7 +45,7 @@ git push origin:<branchname>
 
 Well... That was a lot of branching knowledge and contrary to the law of conservation of energy, a branch can be created or destroyed (deleted) and the only way to preserve it, is to finally merge it to **master **or to its **target**.
 
-### What is a merge
+## What is a merge
 
 Merge is the process of taking the contents of a source branch and integrating them with a target branch. 
 

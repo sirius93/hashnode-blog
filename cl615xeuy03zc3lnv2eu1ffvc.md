@@ -231,7 +231,7 @@ Once you add all these files and updated the placeholder fields, you have only c
 
 Once you follow these steps, you should be able to add a bio that will update based on your everyday activity on GitHub and daily dev. 
 
-If you come across any issues and need any kind of assistance, drop a comment below or shoot me a mail at [contact@nandankumar.info](contact@nandankumar.info) and I will try to help you out.
+If you come across any issues and need any kind of assistance, drop a comment below or shoot me a mail at [contact@nandankumar.info](mailto:contact@nandankumar.info) and I will try to help you out.
 
 Stay tuned & connect with me on my social media channels. Make sure to subscribe to my newsletter to get regular updates on my upcoming posts.
 

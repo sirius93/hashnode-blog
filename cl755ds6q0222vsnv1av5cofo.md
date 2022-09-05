@@ -96,7 +96,7 @@ Now that I have narrated the whole incident. There may be a few questions in you
 
   What fellow developers can learn from my experience is that Even the biggest problems can be solved, If we apply the presence of mind and break the bigger problems Into smaller problems.
 
-I hope I have answered all your questions and if I have missed anything, drop a comment below or shoot me a mail at [contact@nandankumar.info](contact@nandankumar.info) and I will try to answer.
+I hope I have answered all your questions and if I have missed anything, drop a comment below or shoot me a mail at [contact@nandankumar.info](mailto:contact@nandankumar.info) and I will try to answer.
 
 You can also visit my website to read some of the articles at [https://nandankumar.info/](https://nandankumar.info/)
 

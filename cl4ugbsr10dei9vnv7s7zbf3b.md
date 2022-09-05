@@ -2,7 +2,7 @@
 
 After a short one-week break, I am back with more on git commands. In the previous blogs in this series, we learned about version control and some basic git commands. We also learned about branching and merging (two very important concepts in git). 
 
-You can follow the complete series (or any of the previous blogs in this series) by clicking [here](https://blog.nandankumar.info/series/understanding-git).
+You can follow the complete series (or any of the previous blogs in this series) by clicking [here](https://blog.nandankumar.info/series/the-git-pro-series).
 
 In this blog, I will cover more on git commands like Tag, Log, Stash, etc, which come in handy in day-to-day development. Let's get started.
 

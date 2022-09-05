@@ -1,6 +1,6 @@
 ## Understanding version control and mastering git: Resolving  Merge conflicts, cherry-picking..!!
 
-Welcome to the 4th post in the series [Understanding version control and mastering git](https://blog.nandankumar.info/series/understanding-git). (This comes after a long gap; I have been a bit caught up with work.) 
+Welcome to the 4th post in the series [Understanding version control and mastering git](https://blog.nandankumar.info/series/the-git-pro-series). (This comes after a long gap; I have been a bit caught up with work.) 
 
 Right now, I am parallelly working on multiple requirements and bugs to make sure, The release items are delivered on time. This involves switching between branches and taking recent pulls from the master branch as well as cherry-picking commits to merge the changes to different branches. One issue I am currently facing and which we all face very frequently is  ***merge conflict***.
 

@@ -22,7 +22,7 @@ AdBlock Plus has a **4.5 Star rating** and more than **10 Million users** and ha
 -  It blocks off destructive malvertising that can hide in ads
 -  It also gives you faster browsing (as resources are blocked from loading)
 
-### 2.[Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+### 2. [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 Even the best writers need an editor and reviewers to verify and correct their work. We as developers are no Shakespeare, and we do make a lot of errors while writing. 
 
 ![its-colour-not-color.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1663101430933/LjxLGAVnZ.jpg align="center")
@@ -33,7 +33,7 @@ With a **4.5 Star Rating** and more than **10 Million Users** Grammarly is winni
 
 Even the Free version of it is quite powerful and comes in handy.
 
-### 3.[Daily.Dev](https://daily.dev/)
+### 3. [Daily.Dev](https://daily.dev/)
 Daily Dev is the fastest-growing online community for developers to stay updated on the best developer news. It brings the content you love in one place sourced from 400+ sources. 
 
 You can download the extension from [here](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) and set it as your homepage and be updated by the latest tech news right from a new tab.

@@ -4,9 +4,9 @@ Hey there, It's been a busy past month with festivals and getting my new home re
 
 Welcome back to the third part of [the system design series](https://blog.nandankumar.info/series/system-design). If you are a first-time visitor, You may like to look at my other blog posts in this series.
 
-*   [What is System Design? Types of IP Addresses, OSI models, and TCP/UDP Protocols.](https://blog.nandankumar.info/what-is-system-design-ip-osi-models-and-tcp-udp-protocols)
+* [What is System Design? Types of IP Addresses, OSI models, and TCP/UDP Protocols.](https://blog.nandankumar.info/what-is-system-design-ip-osi-models-and-tcp-udp-protocols)
     
-*   [System Design: Domain Name System (DNS), Load Balancing & Clustering.](https://blog.nandankumar.info/what-is-system-design-ip-osi-models-and-tcp-udp-protocols)
+* [System Design: Domain Name System (DNS), Load Balancing & Clustering.](https://blog.nandankumar.info/what-is-system-design-ip-osi-models-and-tcp-udp-protocols)
     
 
 In my last blog, we learned about Domain Name Systems (DNS), Load Balancers, and clustering. and we briefly discussed the advantage and features of load balancers and clusters and how they differ from each other. We also covered the cases when these are required to be used in a system.
@@ -93,17 +93,17 @@ Where the write is only done to the caching layer and the write is confirmed as 
 
 Following are some of the most common cache eviction policies:
 
-*   **First In First Out (FIFO)**: The cache evicts the first block accessed first without any regard to how often or how many times it was accessed before.
+* **First In First Out (FIFO)**: The cache evicts the first block accessed first without any regard to how often or how many times it was accessed before.
     
-*   **Last In First Out (LIFO)**: The cache evicts the block accessed most recently first without any regard to how often or how many times it was accessed before.
+* **Last In First Out (LIFO)**: The cache evicts the block accessed most recently first without any regard to how often or how many times it was accessed before.
     
-*   **Least Recently Used (LRU)**: Discards the least recently used items first.
+* **Least Recently Used (LRU)**: Discards the least recently used items first.
     
-*   **Most Recently Used (MRU)**: Discards, in contrast to LRU, the most recently used items first.
+* **Most Recently Used (MRU)**: Discards, in contrast to LRU, the most recently used items first.
     
-*   **Least Frequently Used (LFU)**: Counts how often an item is needed. Those that are used least often are discarded first.
+* **Least Frequently Used (LFU)**: Counts how often an item is needed. Those that are used least often are discarded first.
     
-*   **Random Replacement (RR)**: Randomly selects a candidate item and discards it to make space when necessary.
+* **Random Replacement (RR)**: Randomly selects a candidate item and discards it to make space when necessary.
     
 
 ## Distributed Cache
@@ -122,24 +122,24 @@ As the name suggests, we will have a single shared cache that all the applicatio
 
 Caching can have many real-world use cases such as:
 
-*   Database Caching
+* Database Caching
     
-*   Content Delivery Network (CDN)
+* Content Delivery Network (CDN)
     
-*   Domain Name System (DNS) Caching
+* Domain Name System (DNS) Caching
     
-*   API Caching
+* API Caching
     
 
 **When not to use caching?**
 
 Let's also look at some scenarios where we should not use cache:
 
-*   Caching isn't helpful when it takes just as long to access the cache as it does to access the primary data store.
+* Caching isn't helpful when it takes just as long to access the cache as it does to access the primary data store.
     
-*   Caching doesn't work very well when requests have low repetition (higher randomness), because caching performance comes from repeated memory access patterns.
+* Caching doesn't work very well when requests have low repetition (higher randomness), because caching performance comes from repeated memory access patterns.
     
-*   Caching isn't helpful when the data frequently changes, as the cached version gets out of sync, and the primary data store must be accessed every time.
+* Caching isn't helpful when the data frequently changes, as the cached version gets out of sync, and the primary data store must be accessed every time.
     
 
 *It's important to note that a cache should not be used as permanent data storage. They are almost always implemented in volatile memory because it is faster, and thus should be considered transient.*
@@ -148,28 +148,28 @@ Let's also look at some scenarios where we should not use cache:
 
 Below are some advantages of caching:
 
-*   Improves performance
+* Improves performance
     
-*   Reduce latency
+* Reduce latency
     
-*   Reduce load on the database
+* Reduce load on the database
     
-*   Reduce network cost
+* Reduce network cost
     
-*   Increase Read Throughput
+* Increase Read Throughput
     
 
 ## Examples
 
 Here are some commonly used technologies for caching:
 
-*   [Redis](https://redis.io)
+* [Redis](https://redis.io)
     
-*   [Memcached](https://memcached.org)
+* [Memcached](https://memcached.org)
     
-*   [Amazon Elasticache](https://aws.amazon.com/elasticache)
+* [Amazon Elasticache](https://aws.amazon.com/elasticache)
     
-*   [Aerospike](https://aerospike.com)
+* [Aerospike](https://aerospike.com)
     
 
 # Content Delivery Network (CDN)
@@ -214,24 +214,24 @@ Contrary to the Push CDN, this requires less maintenance because cache updates o
 
 As we all know good things come with extra costs, so let's discuss some disadvantages of CDNs:
 
-*   **Extra charges**: It can be expensive to use a CDN, especially for high-traffic services.
+* **Extra charges**: It can be expensive to use a CDN, especially for high-traffic services.
     
-*   **Restrictions**: Some organizations and countries have blocked the domains or IP addresses of popular CDNs.
+* **Restrictions**: Some organizations and countries have blocked the domains or IP addresses of popular CDNs.
     
-*   **Location**: If most of our audience is located in a country where the CDN has no servers, the data on our website may have to travel further than without using any CDN.
+* **Location**: If most of our audience is located in a country where the CDN has no servers, the data on our website may have to travel further than without using any CDN.
     
 
 ## Examples
 
 Here are some widely used CDNs:
 
-*   [Amazon CloudFront](https://aws.amazon.com/cloudfront)
+* [Amazon CloudFront](https://aws.amazon.com/cloudfront)
     
-*   [Google Cloud CDN](https://cloud.google.com/cdn)
+* [Google Cloud CDN](https://cloud.google.com/cdn)
     
-*   [Cloudflare CDN](https://www.cloudflare.com/cdn)
+* [Cloudflare CDN](https://www.cloudflare.com/cdn)
     
-*   [Fastly](https://www.fastly.com/products/cdn)
+* [Fastly](https://www.fastly.com/products/cdn)
     
 
 # Proxy
@@ -252,13 +252,13 @@ A forward proxy, often called a proxy, proxy server, or web proxy is a server th
 
 Here are some advantages of a forward proxy:
 
-*   Block access to certain content
+* Block access to certain content
     
-*   Allows access to [geo-restricted](https://en.wikipedia.org/wiki/Geo-blocking) content
+* Allows access to [geo-restricted](https://en.wikipedia.org/wiki/Geo-blocking) content
     
-*   Provides anonymity
+* Provides anonymity
     
-*   Avoid other browsing restrictions
+* Avoid other browsing restrictions
     
 
 Although proxies provide the benefits of anonymity, they can still track our personal information. Setup and maintenance of a proxy server can be costly and requires configurations.
@@ -277,15 +277,15 @@ Introducing reverse proxy results in increased complexity. A single reverse prox
 
 Here are some advantages of using a reverse proxy:
 
-*   Improved security
+* Improved security
     
-*   Caching
+* Caching
     
-*   SSL encryption
+* SSL encryption
     
-*   Load balancing
+* Load balancing
     
-*   Scalability and flexibility
+* Scalability and flexibility
     
 
 ## Load balancer vs Reverse Proxy
@@ -296,20 +296,20 @@ Wait, isn't reverse proxy similar to a load balancer? Well, no as a load balance
 
 Below are some commonly used proxy technologies:
 
-*   [Nginx](https://www.nginx.com)
+* [Nginx](https://www.nginx.com)
     
-*   [HAProxy](http://www.haproxy.org)
+* [HAProxy](http://www.haproxy.org)
     
-*   [Traefik](https://doc.traefik.io/traefik)
+* [Traefik](https://doc.traefik.io/traefik)
     
-*   [Envoy](https://www.envoyproxy.io)
+* [Envoy](https://www.envoyproxy.io)
     
 
 That's all folks.
 
 In the next blog, I will try to cover more about Availability, Scalability, and different types of storage.
 
-Feel free to comment on how did you like my first blog on the system design series or shoot me a mail at [contact@nandankumar.info](mailto:contact@nandankumar.info) If you have any queries and I will try to answer.
+Feel free to comment on how did you like my third blog on the system design series or shoot me a mail at [contact@nandankumar.info](mailto:contact@nandankumar.info) If you have any queries and I will try to answer.
 
 You can also visit my website to read some of the articles at [https://nandankumar.info/](https://nandankumar.info/)
 

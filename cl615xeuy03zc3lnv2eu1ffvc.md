@@ -1,9 +1,9 @@
-## How to make a kickass bio for your GitHub profile using DailyDev's Devcard and metrics.
+# How to make a kickass bio for your GitHub profile using DailyDev's Devcard and metrics.
 
 ***The greatest trick the Devil ever pulled was convincing the world that procrastination isn't real.*** 
 Trust me, it is quite real. I have thought of writing for two weeks now and finally, here I am at the third line of the blog. 
 
-But the past two weeks were not completely wasted, I updated a tic-tac-toe game that I had built a while back and it's now live [here](http://nandankumar.info/tic-tac-toe/). It's built on react and is a Progressive Web Application. 
+But the past two weeks were not completely wasted, I updated a tic-tac-toe game that I had built a while back and it's now live [here](http://nandan.dev/tic-tac-toe/). It's built on react and is a Progressive Web Application. 
 
 I also took some time and updated my [GitHub bio](https://github.com/sirius93) and this blog is going to be exactly about how I achieved that.
 
@@ -231,11 +231,11 @@ Once you add all these files and updated the placeholder fields, you have only c
 
 Once you follow these steps, you should be able to add a bio that will update based on your everyday activity on GitHub and daily dev. 
 
-If you come across any issues and need any kind of assistance, drop a comment below or shoot me a mail at [contact@nandankumar.info](mailto:contact@nandankumar.info) and I will try to help you out.
+If you come across any issues and need any kind of assistance, drop a comment below or shoot me a mail at [connect@nandan.dev](mailto:connect@nandan.dev) and I will try to help you out.
 
 Stay tuned & connect with me on my social media channels. Make sure to subscribe to my newsletter to get regular updates on my upcoming posts.
 
-[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandankumar.info)
+[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandan.dev)
 
 Footnotes: 
 >[https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp)

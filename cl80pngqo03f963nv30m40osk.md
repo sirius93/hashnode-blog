@@ -1,4 +1,4 @@
-## 5 Chrome/Edge extensions every Developer should have..!!
+# 5 Chrome/Edge extensions every Developer should have..!!
 
 Did you know the new Microsoft edge is based on **chromium ** and it supports all of the chrome extensions as well as all the legacy edge extensions??
 
@@ -61,13 +61,13 @@ Colorzilla has a **4.5 Star Rating** and more than **3 Million Users**. It seems
 
 What are some of the chrome/edge extensions that you use?? Drop a comment below. 
 
-Shoot me a mail at [contact@nandankumar.info](mailto:contact@nandankumar.info) If you have any queries and I will try to answer.
+Shoot me a mail at [connect@nandan.dev](mailto:connect@nandan.dev) If you have any queries and I will try to answer.
 
-You can also visit my website to read some of the articles at [https://nandankumar.info/](https://nandankumar.info/)
+You can also visit my website to read some of the articles at [https://nandan.dev/](https://nandan.dev/)
 
 Stay tuned & connect with me on my social media channels. Make sure to subscribe to my newsletter to get regular updates on my upcoming posts.
 
-[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandankumar.info)
+[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandan.dev)
 
 
 

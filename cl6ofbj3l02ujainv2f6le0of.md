@@ -1,4 +1,4 @@
-## How I leveraged GitHub, Hashnode and Gumroad to build my website with a blog and a store..!!
+# How I leveraged GitHub, Hashnode and Gumroad to build my website with a blog and a store..!!
 
 After being in the software industry for almost 6 years, I finally created my own website in April this year. You must be wondering, why did it take so long to create a website?
 
@@ -25,26 +25,26 @@ Finding time was a concern alongside a demanding job. So, I decided to create a 
 
 ![Dev Mode on.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1660166132931/xp5G5_h8X.gif align="left")
 
-I went to GoDaddy and looked for available domains and finally decided to go ahead with [https://nandankumar.info](https://nandankumar.info).
+I went to Google Domains and looked for available domains and finally decided to go ahead with [https://nandan.dev](https://nandan.dev).
 
 I used Github-pages to host my landing page, and mapped it to my domain address. It is effortless to set up. You can follow the documentation provided by GitHub [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site).
 
 Not just that, all my other projects hosted on GitHub will be shown under my domain. How cool is that? I am listing below a couple of projects that I have hosted. You can add as many pages as you wish :
 
-- [React Tic Tac Toe Game](https://nandankumar.info/tic-tac-toe/)
-- [Angular Accordion](https://nandankumar.info/angular-accordion/)
+- [React Tic Tac Toe Game](https://nandan.dev/tic-tac-toe/)
+- [Angular Accordion](https://nandan.dev/angular-accordion/)
 
-Next comes my blog, I am using Hashnode to publish my blogs and all my blogs are published under the subdomain [https://blog.nandankumar.info](https://blog.nandankumar.info), just like the blog you are currently reading. 
+Next comes my blog, I am using Hashnode to publish my blogs and all my blogs are published under the subdomain [https://blog.nandan.dev](https://blog.nandan.dev), just like the blog you are currently reading. 
 
 You can read more about setting up a custom domain for your Hashnode blog [here](https://support.hashnode.com/docs/mapping-domain).
 
-And finally the store. I am using the Gumroad store to list my products and services (There aren't many as of now but I am working on it) and all my products are listed under the sub-domain [https://store.nandankumar.info](https://store.nandankumar.info).
+And finally the store. I am using the Gumroad store to list my products and services (There aren't many as of now but I am working on it) and all my products are listed under the sub-domain [https://store.nandan.dev](https://store.nandan.dev).
 
 You can read more about setting up a custom domain for your Gumroad store [here](https://help.gumroad.com/article/153-setting-up-a-custom-domain).
 
 *Shameless plug alert* 
 
-If you want to buy my handwritten notes on git commands, you can get it from my store [here](https://store.nandankumar.info/l/git-cheatsheet-hand-written). 
+If you want to buy my handwritten notes on git commands, you can get it from my store [here](https://store.nandan.dev/l/git-cheatsheet-hand-written). 
 
 Now that I have almost covered all the information about the process, let me give you some insight into how much time and money I have saved.
 
@@ -60,10 +60,10 @@ Now that I have almost covered all the information about the process, let me giv
 Now that you have all the insight and information you need. What are your waiting for??
 Stop procrastinating like I did for all these years and Go ahead, Build your own ecosystem. 
 
-If you come across any issues and need any kind of assistance, drop a comment below or shoot me a mail at [contact@nandankumar.info](contact@nandankumar.info) and I will try to help you out.
+If you come across any issues and need any kind of assistance, drop a comment below or shoot me a mail at [connect@nandan.dev](connect@nandan.dev) and I will try to help you out.
 
 Stay tuned & connect with me on my social media channels. Make sure to subscribe to my newsletter to get regular updates on my upcoming posts.
 
-[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandankumar.info)
+[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandan.dev)
 
 

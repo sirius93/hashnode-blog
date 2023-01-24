@@ -6,7 +6,7 @@ In the last blog post, we learned about IP addresses that enable one machine to 
 
 The problem with using IP addresses is that IP addresses are not very easy to remember. For us humans, It is tough to remember numbers like `122.250.192.232` because we are more comfortable with names than numbers. 
 
-So, It is easy to remember a name, something like `nandankumar.info` than a series of numbers i.e. `185.199.111.153`.
+So, It is easy to remember a name, something like `nandan.dev` than a series of numbers i.e. `185.199.111.153`.
 
 That is where Domain Name Systems (DNS) come into the picture.
 
@@ -15,7 +15,7 @@ DNS is a decentralized naming system that translates human-understandable domain
 
 ## How DNS works
 
-![how-dns-works](https://nandankumar.info/system-design/images/how-dns-works.png)
+![how-dns-works](https://nandan.dev/system-design/images/how-dns-works.png)
 
 DNS lookup involves the following steps:
 
@@ -96,9 +96,9 @@ Now let's look at some of the most commonly used record types:
 
 A subdomain is an additional part of the main domain name. It is commonly used to logically separate a website into sections. We can create multiple subdomains or child domains on the main domain.
 
-For example, `blog.nandankumar.info` where `blog` is the subdomain, `nandankumar` is the primary domain and `.info` is the top-level domain (TLD). Similar examples can be `store.nandankumar.info`. blog subdomain is separated from the main domain which is `nandankumar.info`, and It uses a completely seperate hosting service than the main domain.
+For example, `blog.nandan.dev` where `blog` is the subdomain, `nandan` is the primary domain and `.info` is the top-level domain (TLD). Similar examples can be `store.nandan.dev`. blog subdomain is separated from the main domain which is `nandan.dev`, and It uses a completely separate hosting service from the main domain.
 
-I have detailed more about using subdomains to create seperate sections in the blog [here](https://blog.nandankumar.info/how-i-leveraged-github-hashnode-and-gumroad-to-build-my-website-with-a-blog-and-a-store).
+I have detailed more about using subdomains to create separate sections in the blog [here](https://blog.nandan.dev/how-i-leveraged-github-hashnode-and-gumroad-to-build-my-website-with-a-blog-and-a-store).
 
 ## DNS Zones
 
@@ -132,11 +132,11 @@ These are some widely used managed DNS solutions:
 
 Load balancing, As the name suggests, lets us distribute incoming network traffic across multiple resources(i.e. Servers, Databases etc.) ensuring high availability and reliability by sending requests only to resources that are available and running. This provides the flexibility to add or subtract resources as demand dictates.
 
-![load-balancing](https://nandankumar.info/system-design/images/load-balancer.png)
+![load-balancing](https://nandan.dev/system-design/images/load-balancer.png)
 
 For additional scalability and redundancy, load balancing can be implemented at each layer of the system:
 
-![load-balancing-layers](https://nandankumar.info/system-design/images/load-balancer-layers.png)
+![load-balancing-layers](https://nandan.dev/system-design/images/load-balancer-layers.png)
 
 ## Let's understand why?
 
@@ -212,7 +212,7 @@ As you must've already guessed, the load balancer itself can be a single point o
 
 And, if there's a failure detection and the _active_ load balancer fails, another _passive_ load balancer can take over which will make our system more fault-tolerant.
 
-![redundant-load-balancing](https://nandankumar.info/system-design/images/redundant-load-balancer.png)
+![redundant-load-balancing](https://nandan.dev/system-design/images/redundant-load-balancer.png)
 
 ## Features
 
@@ -248,7 +248,7 @@ At a high level, a computer cluster is a group of two or more computers, or node
 
 To build a computer cluster, the individual nodes should be connected to a network to enable internode communication. The software can then be used to join the nodes together and form a cluster. It may have a shared storage device and/or local storage on each node.
 
-![cluster](https://nandankumar.info/system-design/images/cluster.png)
+![cluster](https://nandan.dev/system-design/images/cluster.png)
 
 Typically, at least one node is designated as the leader node and acts as the entry point to the cluster. The leader node may be responsible for delegating incoming work to the other nodes and, if necessary, aggregating the results and returning a response to the user.
 
@@ -268,13 +268,13 @@ The two most commonly used high availability (HA) clustering configurations are 
 
 ### Active-Active
 
-![active-active](https://nandankumar.info/system-design/images/active-active.png)
+![active-active](https://nandan.dev/system-design/images/active-active.png)
 
 An active-active cluster is typically made up of at least two nodes, both actively running the same kind of service simultaneously. The main purpose of an active-active cluster is to achieve load balancing. A load balancer distributes workloads across all nodes to prevent any single node from getting overloaded. Because there are more nodes available to serve, there will also be an improvement in throughput and response times.
 
 ### Active-Passive
 
-![active-passive](https://nandankumar.info/system-design/images/active-passive.png)
+![active-passive](https://nandan.dev/system-design/images/active-passive.png)
 
 Like the active-active cluster configuration, an active-passive cluster also consists of at least two nodes. However, as the name _active-passive_ implies, not all nodes are going to be active. For example, in the case of two nodes, if the first node is already active, then the second node must be passive or on standby.
 
@@ -313,10 +313,10 @@ That's all folks.
 
 In the next blog, I will try to cover more about Caching, CDNs, Proxy servers etc. 
 
-Feel free to comment on how did you like my first blog on the system design series or shoot me a mail at [contact@nandankumar.info](mailto:contact@nandankumar.info) If you have any queries and I will try to answer.
+Feel free to comment on how did you like my first blog on the system design series or shoot me a mail at [connect@nandan.dev](mailto:connect@nandan.dev If you have any queries and I will try to answer.
 
-You can also visit my website to read some of the articles at [https://nandankumar.info/](https://nandankumar.info/)
+You can also visit my website to read some of the articles at [https://nandan.dev/](https://nandan.dev/)
 
 Stay tuned & connect with me on my social media channels. Make sure to subscribe to my newsletter to get regular updates on my upcoming posts.
 
-[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandankumar.info)
+[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandan.dev)

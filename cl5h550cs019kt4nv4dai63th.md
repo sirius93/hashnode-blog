@@ -1,6 +1,6 @@
-## Understanding version control and mastering git: Resolving  Merge conflicts, cherry-picking..!!
+# Understanding version control and mastering git: Resolving  Merge conflicts, cherry-picking..!!
 
-Welcome to the 4th post in the series [Understanding version control and mastering git](https://blog.nandankumar.info/series/the-git-pro-series). (This comes after a long gap; I have been a bit caught up with work.) 
+Welcome to the 4th post in the series [Understanding version control and mastering git](https://blog.nandan.dev/series/the-git-pro-series). (This comes after a long gap; I have been a bit caught up with work.) 
 
 Right now, I am parallelly working on multiple requirements and bugs to make sure, The release items are delivered on time. This involves switching between branches and taking recent pulls from the master branch as well as cherry-picking commits to merge the changes to different branches. One issue I am currently facing and which we all face very frequently is  ***merge conflict***.
 
@@ -144,7 +144,7 @@ Now that we have covered, merge conflicts and cherry-pick as well as merge confl
 
 I wanted to cover .gitignore in this blog. But we can ignore that for now (*pun intended*). I will try to cover it in another blog. 
 
-If you have any questions on Git, please feel free to reach out to me at contact@nandankumar.info.
+If you have any questions on Git, please feel free to reach out to me at [connect@nandan.dev](mailto:connect@nandan.dev).
 
 That's all for now folks.
 Stay tuned & connect with me on my social media channels. 

@@ -19,7 +19,7 @@ In this blog, we will try to cover the system design topic w.r.t. Caching, Conte
 
 A cache is a high-speed data storage layer that stores a subset of data, typically transient so that future requests for that data are served up faster than is possible by accessing the data’s primary storage location. Caching allows you to reuse previously retrieved or computed data efficiently.
 
-![caching](https://nandankumar.info/system-design/images/caching.png align="left")
+![caching](https://nandan.dev/system-design/images/caching.png align="left")
 
 A cache's main purpose is to increase data retrieval performance by reducing the need to access the underlying data storage (databases) layer which is relatively slower. It prioritizes speed over capacity, Hence a cache typically stores a subset of data transiently, Unlike databases whose data is usually complete and durable but slower to access/update.
 
@@ -61,7 +61,7 @@ Cache invalidation is a process where the computer system declares the cache ent
 
 ### Write-through cache
 
-![write-through-cache](https://nandankumar.info/system-design/images/write-through-cache.png align="left")
+![write-through-cache](https://nandan.dev/system-design/images/write-through-cache.png align="left")
 
 Data is written into the cache and the corresponding database simultaneously.
 
@@ -71,7 +71,7 @@ Data is written into the cache and the corresponding database simultaneously.
 
 ### Write-around cache
 
-![write-around-cache](https://nandankumar.info/system-design/images/write-around-cache.png align="left")
+![write-around-cache](https://nandan.dev/system-design/images/write-around-cache.png align="left")
 
 Where write directly goes to the database or permanent storage, bypassing the cache.
 
@@ -81,7 +81,7 @@ Where write directly goes to the database or permanent storage, bypassing the ca
 
 ### Write-back cache
 
-![write-back-cache](https://nandankumar.info/system-design/images/write-back-cache.png align="left")
+![write-back-cache](https://nandan.dev/system-design/images/write-back-cache.png align="left")
 
 Where the write is only done to the caching layer and the write is confirmed as soon as the write to the cache completes. The cache then asynchronously syncs this write to the database.
 
@@ -108,13 +108,13 @@ Following are some of the most common cache eviction policies:
 
 ## Distributed Cache
 
-![distributed-cache](https://nandankumar.info/system-design/images/distributed-cache.png align="left")
+![distributed-cache](https://nandan.dev/system-design/images/distributed-cache.png align="left")
 
 A distributed cache is a system that pools together the random-access memory (RAM) of multiple networked computers into a single in-memory data store used as a data cache to provide fast access to data. While most caches are traditionally in one physical server or hardware component, a distributed cache can grow beyond the memory limits of a single computer by linking together multiple computers.
 
 ## Global Cache
 
-![global-cache](https://nandankumar.info/system-design/images/global-cache.png align="left")
+![global-cache](https://nandan.dev/system-design/images/global-cache.png align="left")
 
 As the name suggests, we will have a single shared cache that all the application nodes will use. When the requested data is not found in the global cache, it's the cache's responsibility to find the missing piece of data from the underlying data store.
 
@@ -176,7 +176,7 @@ Here are some commonly used technologies for caching:
 
 A content delivery network (CDN) is a geographically distributed and interconnected group of servers that work together to provide fast delivery of internet content. In general, static files like HTML/CSS/JS, photos, and videos (content in general) are served over CDN.
 
-![cdn-map](https://nandankumar.info/system-design/images/cdn-map.png align="left")
+![cdn-map](https://nandan.dev/system-design/images/cdn-map.png align="left")
 
 ## Why use a CDN?
 
@@ -184,7 +184,7 @@ A content Delivery Network (CDN) increases content availability while reducing b
 
 ## How does a CDN work?
 
-![cdn](https://nandankumar.info/system-design/images/cdn.png align="left")
+![cdn](https://nandan.dev/system-design/images/cdn.png align="left")
 
 In a CDN, the origin server contains the original versions of the content while the edge servers are numerous and distributed across various locations around the world.
 
@@ -246,7 +246,7 @@ There are two types of proxies:
 
 A forward proxy, often called a proxy, proxy server, or web proxy is a server that sits in front of a group of client machines. When those computers make requests to sites and services on the internet, the proxy server intercepts those requests and then communicates with web servers on behalf of those clients, like a middleman.
 
-![forward-proxy](https://nandankumar.info/system-design/images/forward-proxy.png align="left")
+![forward-proxy](https://nandan.dev/system-design/images/forward-proxy.png align="left")
 
 **Advantages**
 
@@ -269,7 +269,7 @@ A reverse proxy is a server that sits in front of one or more web servers, inter
 
 The difference between a forward and reverse proxy is subtle but important. A simplified way to sum it up would be to say that a forward proxy sits in front of a client and ensures that no origin server ever communicates directly with that specific client. On the other hand, a reverse proxy sits in front of an origin server and ensures that no client ever communicates directly with that origin server.
 
-![reverse-proxy](https://nandankumar.info/system-design/images/reverse-proxy.png align="left")
+![reverse-proxy](https://nandan.dev/system-design/images/reverse-proxy.png align="left")
 
 Introducing reverse proxy results in increased complexity. A single reverse proxy is a single point of failure, configuring multiple reverse proxies (i.e. a failover) further increases complexity.
 
@@ -311,8 +311,8 @@ In the next blog, I will try to cover more about Availability, Scalability, and 
 
 Feel free to comment on how did you like my third blog on the system design series or shoot me a mail at [connect@nandan.dev](http://mailto:connect@nandan.dev) If you have any queries and I will try to answer.
 
-You can also visit my website to read some of the articles at [https://nandankumar.info/](https://nandankumar.info/)
+You can also visit my website to read some of the articles at [https://nandan.dev/](https://nandan.dev/)
 
 Stay tuned & connect with me on my social media channels. Make sure to subscribe to my newsletter to get regular updates on my upcoming posts.
 
-[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandankumar.info)
+[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandan.dev)

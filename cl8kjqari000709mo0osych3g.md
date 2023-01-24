@@ -1,4 +1,4 @@
-## What is System Design? Types of IP Addresses, OSI models, and TCP/UDP Protocols.
+# What is System Design? Types of IP Addresses, OSI models, and TCP/UDP Protocols.
 
 The topic of system design has intrigued me over the last couple of months, So I finally started learning basics of system design by reading through a few blogs which have been recommended to me. 
 
@@ -97,7 +97,7 @@ While this model is not directly implemented in the TCP/IP networks that are mos
 
 The seven abstraction layers of the OSI model can be defined as follows, from top to bottom:
 
-![osi-model](https://nandankumar.info/system-design/images/osi-model.png)
+![osi-model](https://nandan.dev/system-design/images/osi-model.png)
 
 ### Application
 
@@ -133,7 +133,7 @@ This layer includes the physical equipment involved in the data transfer, such a
 
 Transmission Control Protocol (TCP) is connection-oriented, meaning once a connection has been established, data can be transmitted in both directions. TCP has built-in systems to check for errors and to guarantee data will be delivered in the order it was sent, making it the perfect protocol for transferring information like still images, data files, and web pages.
 
-![tcp](https://nandankumar.info/system-design/images/tcp.png)
+![tcp](https://nandan.dev/system-design/images/tcp.png)
 
 But while TCP is instinctively reliable, its feedback mechanisms also result in a larger overhead, translating to greater use of the available bandwidth on the network.
 
@@ -141,7 +141,7 @@ But while TCP is instinctively reliable, its feedback mechanisms also result in 
 
 User Datagram Protocol (UDP) is a simpler, connectionless internet protocol in which error-checking and recovery services are not required. With UDP, there is no overhead for opening a connection, maintaining a connection, or terminating a connection. Data is continuously sent to the recipient, whether or not they receive it.
 
-![udp](https://nandankumar.info/system-design/images/udp.png)
+![udp](https://nandan.dev/system-design/images/udp.png)
 
 It is largely preferred for real-time communications like broadcast or multicast network transmission. We should use UDP over TCP when we need the lowest latency and late data is worse than the loss of data.
 
@@ -164,10 +164,10 @@ That's all folks.
 
 In the next blog, I will try to cover more about Domain Name System (DNS), Load Balancing, Clustering, etc. 
 
-Feel free to comment on how did you like my first blog on the system design series or shoot me a mail at [contact@nandankumar.info](mailto:contact@nandankumar.info) If you have any queries and I will try to answer.
+Feel free to comment on how did you like my first blog on the system design series or shoot me a mail at [connect@nandan.dev](mailto:connect@nandan.dev) If you have any queries and I will try to answer.
 
-You can also visit my website to read some of the articles at [https://nandankumar.info/](https://nandankumar.info/)
+You can also visit my website to read some of the articles at [https://nandan.dev/](https://nandan.dev/)
 
 Stay tuned & connect with me on my social media channels. Make sure to subscribe to my newsletter to get regular updates on my upcoming posts.
 
-[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandankumar.info)
+[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandan.dev)

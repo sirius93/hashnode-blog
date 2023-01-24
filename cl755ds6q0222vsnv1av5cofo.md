@@ -1,4 +1,4 @@
-## How I "Hacked" an Airline Website to get back my luggage: A first-person insight to the story.
+# How I "Hacked" an Airline Website to get back my luggage: A first-person insight to the story.
 
 Around 3 months back, I tweeted a thread to a famous airline in India, pointing out some flaws in their data security, and asked them to make a few changes to their website.
 
@@ -96,13 +96,13 @@ Now that I have narrated the whole incident. There may be a few questions in you
 
   What fellow developers can learn from my experience is that Even the biggest problems can be solved, If we apply the presence of mind and break the bigger problems Into smaller problems.
 
-I hope I have answered all your questions and if I have missed anything, drop a comment below or shoot me a mail at [contact@nandankumar.info](mailto:contact@nandankumar.info) and I will try to answer.
+I hope I have answered all your questions and if I have missed anything, drop a comment below or shoot me a mail at [connect@nandan.dev](mailto:connect@nandan.dev) and I will try to answer.
 
-You can also visit my website to read some of the articles at [https://nandankumar.info/](https://nandankumar.info/)
+You can also visit my website to read some of the articles at [https://nandan.dev/](https://nandan.dev/)
 
 Stay tuned & connect with me on my social media channels. Make sure to subscribe to my newsletter to get regular updates on my upcoming posts.
 
-[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandankumar.info)
+[Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/_sirius93_) | [Github](https://github.com/sirius93) | [Website](https://nandan.dev)
 
 
 

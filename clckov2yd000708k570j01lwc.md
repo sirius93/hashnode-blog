@@ -2,11 +2,11 @@
 
 Hey there, It's been a busy past month with festivals and getting my new home ready. Hence the delay.
 
-Welcome back to the third part of [the system design series](https://blog.nandankumar.info/series/system-design). If you are a first-time visitor, You may like to look at my other blog posts in this series.
+Welcome back to the third part of [the system design series](https://blog.nandan.dev/series/system-design). If you are a first-time visitor, You may like to look at my other blog posts in this series.
 
-* [What is System Design? Types of IP Addresses, OSI models, and TCP/UDP Protocols.](https://blog.nandankumar.info/what-is-system-design-ip-osi-models-and-tcp-udp-protocols)
+* [What is System Design? Types of IP Addresses, OSI models, and TCP/UDP Protocols.](https://blog.nandan.dev/what-is-system-design-ip-osi-models-and-tcp-udp-protocols)
     
-* [System Design: Domain Name System (DNS), Load Balancing & Clustering.](https://blog.nandankumar.info/what-is-system-design-ip-osi-models-and-tcp-udp-protocols)
+* [System Design: Domain Name System (DNS), Load Balancing & Clustering.](https://blog.nandan.dev/what-is-system-design-ip-osi-models-and-tcp-udp-protocols)
     
 
 In my last blog, we learned about Domain Name Systems (DNS), Load Balancers, and clustering. and we briefly discussed the advantage and features of load balancers and clusters and how they differ from each other. We also covered the cases when these are required to be used in a system.
@@ -309,7 +309,7 @@ That's all folks.
 
 In the next blog, I will try to cover more about Availability, Scalability, and different types of storage.
 
-Feel free to comment on how did you like my third blog on the system design series or shoot me a mail at [contact@nandankumar.info](mailto:contact@nandankumar.info) If you have any queries and I will try to answer.
+Feel free to comment on how did you like my third blog on the system design series or shoot me a mail at [connect@nandan.dev](http://mailto:connect@nandan.dev) If you have any queries and I will try to answer.
 
 You can also visit my website to read some of the articles at [https://nandankumar.info/](https://nandankumar.info/)
 

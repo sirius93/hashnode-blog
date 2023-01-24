@@ -45,7 +45,7 @@ chatGPT is a powerful and flexible tool for generating human-like text, and has 
 
 That's all folks.
 
-Feel free to comment on how you like my blog or shoot me a mail at [contact@nandankumar.info](mailto:contact@nandankumar.info) If you have any queries and I will try to answer.
+Feel free to comment on how you like my blog or shoot me a mail at [connect@nandan.dev](http://mailto:connect@nandan.dev) If you have any queries and I will try to answer.
 
 You can also visit my website to read some of the articles at [https://nandankumar.info/](https://nandankumar.info/)
 

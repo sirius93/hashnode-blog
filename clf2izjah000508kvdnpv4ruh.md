@@ -79,7 +79,7 @@ That's all folks for now.
 
 Feel free to comment on how you like my blog or shoot me a mail at [**connect@nandan.dev**](mailto:connect@nandan.dev) If you have any queries and I will try to answer.
 
-You can also visit my website to read some of the articles at [**nandan.dev**](http://nandan.dev)
+You can also visit my website to read some of the articles at [**nandan.dev**](http://blog.nandan.dev)
 
 Stay tuned & connect with me on my social media channels. Make sure to subscribe to my newsletter to get regular updates on my upcoming posts.
 

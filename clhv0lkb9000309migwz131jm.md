@@ -6,8 +6,8 @@ A comprehensive overview of the latest NLP concepts including Large Language Mod
 datePublished: Fri May 19 2023 20:30:03 GMT+0000 (Coordinated Universal Time)
 cuid: clhv0lkb9000309migwz131jm
 slug: nlp-a-beginners-guide-to-large-language-models-transformers-and-fine-tuning
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684524487108/ace60428-6e3c-473f-a0ac-646924c2a5a2.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1684528275863/140d75be-68ce-499d-b448-ee61da3b7ab7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684645028690/3491c4e4-6ebc-43e3-acf1-0dc6e67efb79.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1684645044538/71aae28f-09ba-42ef-ab44-16b731b8fbd4.png
 tags: technology, machine-learning, natural-language-processing, chatgpt, large-language-models
 
 ---

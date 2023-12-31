@@ -198,4 +198,6 @@ You can also visit my website to read some of the articles at [https://nandan.de
 
 Stay tuned & connect with me on my social media channels. Subscribe to my newsletter to get regular updates on my upcoming posts.
 
+If you're interested in learning about system design, you can join Design Guru's course on [System Design Fundamentals](https://www.designgurus.io/course/grokking-system-design-fundamentals?aff=y0pphf).
+
 [Twitter](https://twitter.com/_sirius93_) | [Instagram](https://www.instagram.com/nandandotdev) | [Github](https://github.com/sirius93) | [Website](https://nandan.dev)

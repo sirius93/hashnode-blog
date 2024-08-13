@@ -1,17 +1,17 @@
 ---
-title: "SQL vs NoSQL databases"
+title: "System Design : SQL vs NoSQL databases"
 seoTitle: "SQL v/s NoSQL Databases, What sets them apart."
 seoDescription: "SQL v/s NoSQL Databases, What sets them apart. System Design series by Nandan Kumar"
 datePublished: Tue Aug 13 2024 17:01:07 GMT+0000 (Coordinated Universal Time)
 cuid: clzso5x9y000j09lih7g7969n
-slug: sql-vs-nosql-databases
+slug: system-design-sql-vs-nosql-databases
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723568306196/0a61975f-c413-49e2-9356-d45dc2078bcf.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723568346930/faeb6cf5-a58d-4aa4-b72c-5281519f98e9.png
 tags: nosql, databases, sql, system-design
 
 ---
 
-In the world of databases, there are two main types of solutions, SQL (relational) and NoSQL (non-relational) databases. Both of them differ in the way they were built, the kind of information they store, and how they store it. Relational databases are structured and have predefined schemas while non-relational databases are unstructured, distributed, and have a dynamic schema.
+In the realm of databases, two primary types of solutions exist, SQL (relational) and NoSQL (non-relational) databases. These two categories differ significantly in their construction, the nature of the data they store, and their storage methods. Relational databases are structured with predefined schemas, while non-relational databases are unstructured, distributed, and feature dynamic schemas.
 
 ## High-level differences
 
@@ -19,33 +19,33 @@ Here are some high-level differences between SQL and NoSQL:
 
 ### Storage
 
-SQL stores data in tables, where each row represents an entity and each column represents a data point about that entity.
+SQL stores data in tables where each row represents an entity, and each column represents a data point related to that entity.
 
-NoSQL databases have different data storage models such as key-value, graph, document, etc.
+NoSQL databases utilize various data storage models, including key-value, graph, and document-oriented approaches.
 
 ### Schema
 
-In SQL, each record conforms to a fixed schema, meaning the columns must be decided and chosen before data entry and each row must have data for each column. The schema can be altered later, but it involves modifying the database using migrations.
+In SQL, each record follows a fixed schema, which means that the columns must be determined and chosen before data entry, and each row must contain data for each column. The schema can be modified later, but this involves modifying the database using migrations.
 
-Whereas in NoSQL, schemas are dynamic. Fields can be added on the fly, and each *record* (or equivalent) doesn’t have to contain data for each *field*.
+NoSQL schemas are dynamic. Fields can be added on the fly, and each *record* doesn’t have to contain data for each *field*.
 
 ### Querying
 
-SQL databases use SQL (structured query language) for defining and manipulating the data, which is very powerful.
+SQL databases use Structured Query Language (SQL) to define and manipulate data, which is highly powerful.
 
-In a NoSQL database, queries are focused on a collection of documents. Different databases have different syntax for querying.
+In a NoSQL database, queries focus on a collection of documents, with different databases having different syntax for querying.
 
-### Scalability
+### **Scalability**
 
-In most common situations, SQL databases are vertically scalable, which can get very expensive. It is possible to scale a relational database across multiple servers, but this is a challenging and time-consuming process.
+In most cases, SQL databases can be scaled vertically, which can become very costly. While it's feasible to scale a relational database across multiple servers, it's a difficult and time-consuming process.
 
-On the other hand, NoSQL databases are horizontally scalable, meaning we can add more servers easily to our NoSQL database infrastructure to handle large traffic. Any cheap commodity hardware or cloud instances can host NoSQL databases, thus making it a lot more cost-effective than vertical scaling. A lot of NoSQL technologies also distribute data across servers automatically.
+NoSQL databases are horizontally scalable, which means it's easy to add more servers to handle large traffic. They can be hosted on inexpensive hardware or cloud instances, making them cost-effective compared to vertical scaling. Many NoSQL technologies also distribute data across servers automatically.
 
 ### Reliability
 
-The vast majority of relational databases are ACID compliant. So, when it comes to data reliability and a safe guarantee of performing transactions, SQL databases are still the better bet.
+The majority of relational databases are ACID compliant. Therefore, SQL databases are still the best choice for data reliability and transaction safety.
 
-Most of the NoSQL solutions sacrifice ACID compliance for performance and scalability.
+Many NoSQL solutions prioritize performance and scalability over ACID compliance.
 
 ## Reasons
 

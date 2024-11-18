@@ -1,4 +1,15 @@
-## How to become a Front-End Developer: Part 1
+---
+title: "How to become a Front-End Developer: Part 1"
+seoTitle: "How to become a Front-End Developer"
+seoDescription: "How to become a Front-End Developer - A veteran's approach. - Nandan Kumar"
+datePublished: Sat May 21 2022 17:05:21 GMT+0000 (Coordinated Universal Time)
+cuid: cl3g4g3970416mynvcvpdb5jf
+slug: how-to-become-a-front-end-developer-part-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1653152444773/B_xM_FqJj.jpg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1653152524324/aAmx2g-9p.jpg
+tags: css, javascript, frontend, html5, frontend-development
+
+---
 
 When I started my career as a web developer, a few years back, it was not so much of an easy start. There were very few learning platforms and fewer boot camps; But What was there and is still present, A community that believes in sharing knowledge and that's one reason the web community is growing every day and will keep on growing.
 

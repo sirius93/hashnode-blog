@@ -43,7 +43,7 @@ While Call takes the individual arguments, Apply takes an array of arguments.
 
 ### Examples
 
-Let’s look at the below argument to understand the use of call, apply and bind.
+Let’s look at the below example to understand the use of call, apply and bind.
 
 ```javascript
 function Greetings(greeting,punctuation){

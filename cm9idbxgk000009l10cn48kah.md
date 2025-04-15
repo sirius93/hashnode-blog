@@ -1,10 +1,10 @@
 ---
-title: "I built an AI Book recommendation App and was DDOSed for it."
+title: "I built an AI Book Recommendation App and was DDOS-ed for it."
 seoTitle: "I built an AI Book recommendation App and was DDOSed for it."
 seoDescription: "How I vibe coded my way into trouble and coded my way out of it..!!"
 datePublished: Tue Apr 15 2025 10:37:13 GMT+0000 (Coordinated Universal Time)
 cuid: cm9idbxgk000009l10cn48kah
-slug: i-built-an-ai-book-recommendation-app-and-was-ddosed-for-it
+slug: i-built-an-ai-book-recommendation-app-and-was-ddos-ed-for-it
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744713215395/d734f5ba-48fe-43da-a994-8232425c0fac.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1744713408843/6c06c7b4-b29f-4b81-8c91-a464bd06614a.png
 tags: cloudflare, ai, ddos, ddos-protection, vibe-coding

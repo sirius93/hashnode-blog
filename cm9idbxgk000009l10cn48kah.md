@@ -54,7 +54,7 @@ If you are a human reading this, give the app a try. Tell me what you like/disli
 
 ---
 
-That’s all, folks! I hope you found this short note on Call, Apply & Bind helpful. If you enjoyed this, check out more articles on my website, [**https://nandan.dev/**](https://nandan.dev/)
+That’s all, folks! I hope you enjoyed this. Check out more articles on my website, [**https://nandan.dev/**](https://nandan.dev/)
 
 Feel free to comment, email me at [**connect@nandan.dev**](http://mailto:connect@nandan.dev/), or connect with me on Twitter, Instagram, or GitHub. Don’t forget to subscribe to my newsletter for regular updates on JavaScript topics!
 

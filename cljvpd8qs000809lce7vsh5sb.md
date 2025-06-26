@@ -42,7 +42,7 @@ Everyone asking you what’s taking so long, as you have been given the design a
 
 Sick of it, you decide to write your APIs,  oh come on, how hard writing a controller could be. It’s just `api/bla/bla`..!!
 
-You write APIs and you write the front end, you wire them together, and you feel now you are a full stack developer. But no one tells you that there is more to writing APIs than writing controllers.
+You write APIs and you write the front end, you wire them together, and you feel now you are a [full stack developer](https://www.bairesdev.com/blog/how-to-become-a-full-stack-developer/). But no one tells you that there is more to writing APIs than writing controllers.
 
 And the expectations, oh don’t get me started, now you are expected to write APIs, front end, and everything in the same amount of time you used to take to build a part of it( the front end).
 
